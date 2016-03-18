@@ -1,6 +1,6 @@
 # Programação
 
-[Lista impressionante](https://github.com/sindresorhus/awesome/) de referências para ajudar no aprendizado de programação, preferencialmente em **pt_BR**.
+Lista de referências [excelentes](https://github.com/sindresorhus/awesome/) para ajudar no aprendizado de programação, preferencialmente em **pt_BR**.
 
 ## Sumário
 
