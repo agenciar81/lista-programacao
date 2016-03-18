@@ -82,4 +82,4 @@
 * GitHub: https://github.com/fernandojunior/programacao/
 * Free software: [The MIT License](/LICENSE)
 
-*Seja um [contribuidor](https://github.com/fernandojunior/programacao/graphs/contributors)! Mas não ultrapasse mais de uma linha em sua pull request :)*
+*Seja um [contribuidor](https://github.com/fernandojunior/programacao/graphs/contributors)! Mas não ultrapasse mais de uma linha em sua [pull request](https://github.com/fernandojunior/lista-programacao/edit/master/README.md) :)*
