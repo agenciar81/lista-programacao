@@ -10,6 +10,7 @@
     - [Livros](#livros)
     - [Ferramentas](#ferramentas)
     - [Filmes](#filmes)
+    - [Séries](#séries)
     - [Créditos](#créditos)
 
 ## Cursos
