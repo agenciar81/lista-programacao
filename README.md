@@ -1,6 +1,6 @@
 # Programação
 
-Lista de referências [excelentes](https://github.com/sindresorhus/awesome/) para ajudar no aprendizado de programação, preferencialmente em **pt_BR**.
+Lista de referências [impressionantes](https://github.com/sindresorhus/awesome/) para ajudar no aprendizado de programação, preferencialmente em **pt_BR**.
 
 ## Sumário
 
@@ -23,11 +23,11 @@ Lista de referências [excelentes](https://github.com/sindresorhus/awesome/) par
 * [Curso em Vídeo](https://www.youtube.com/user/cursosemvideo/) - Canal do YouTube com vídeo-aulas.
 * [eXcript](https://www.youtube.com/channel/UCRu4BNG9k_BRUu-aCYJsgHg) - Canal do YouTube com vídeo-aulas.
 * [Khan Academy](https://pt.khanacademy.org/) - Oferece exercícios e aulas que habilita os estudantes a aprender no seu próprio ritmo.
-* [Ignorância Zero](https://www.youtube.com/channel/UCmjj41YfcaCpZIkU-oqVIIw) - Canal do YouTube com vídeo-aulas.
-* [Python para Zumbis](https://www.youtube.com/channel/UCripRddD4BnaMcU833ExuwA/) - Canal do YouTube com vídeo-aulas.
+* [Ignorância Zero](https://www.youtube.com/channel/UCmjj41YfcaCpZIkU-oqVIIw) - Canal do YouTube com vídeo-aulas sobre Python.
+* [Python para Zumbis](https://www.youtube.com/channel/UCripRddD4BnaMcU833ExuwA/) - Canal do YouTube com vídeo-aulas sobre Python.
 
 ## Linguagens
-*[Listas excelentes](https://github.com/sindresorhus/awesome) de [linguagens de programação](https://pt.wikipedia.org/wiki/Linguagem_de_programa%C3%A7%C3%A3o) conforme as [mais usadas](http://www.tiobe.com/tiobe_index) presentes em [Qual aprender primeiro?](https://raw.githubusercontent.com/fernandojunior/programacao/master/qual-linguagem-de-programacao-devo-aprender-primeiro.jpg)*
+*[Listas impressionantes](https://github.com/sindresorhus/awesome) de [linguagens de programação](https://pt.wikipedia.org/wiki/Linguagem_de_programa%C3%A7%C3%A3o) conforme as [mais usadas](http://www.tiobe.com/tiobe_index) presentes em [Qual aprender primeiro?](https://raw.githubusercontent.com/fernandojunior/programacao/master/qual-linguagem-de-programacao-devo-aprender-primeiro.jpg)*
 
 * [Java](https://github.com/akullpp/awesome-java) - Interpretada orientada a objetos ([Wikipédia](https://pt.wikipedia.org/wiki/Java_(linguagem_de_programa%C3%A7%C3%A3o))).
 * [C](https://github.com/aleksandar-todorovic/awesome-c) - Compilada de propósito geral, estruturada, imperativa, procedural ([Wikipédia](https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o))).
