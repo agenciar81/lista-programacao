@@ -43,9 +43,10 @@ Lista de referências [impressionantes](https://github.com/sindresorhus/awesome/
 *Ferramentas online para ajudar a por em prática os conceitos de programação.*
 
 * [DevDocs](http://devdocs.io/) - Possui várias documentações em uma interface rápida, organizada e pesquisável.
+* [HackerRank](https://www.hackerrank.com/) - Desafios para diversas linguagens de programação.
+* [Programaê](http://programae.org.br/) - Auxilia tanto alunos que querem aprender como professores que querem ensinar.
 * [repl.it](https://repl.it) - Fornece um ambiente online de programação interativo para várias linguagens de programação.
 * [Scratch](http://www.scratchbrasil.net.br/) - Permite que qualquer um crie suas próprias histórias interativas, jogos e animações.
-* [Programaê](http://programae.org.br/) - Auxilia tanto alunos que querem aprender como professores que querem ensinar.
 * [SoloLearn](https://play.google.com/store/apps/dev?id=8092475488373003589) Aplicativo móvel para aprender a programar.
 
 ## Livros
@@ -71,10 +72,10 @@ Lista de referências [impressionantes](https://github.com/sindresorhus/awesome/
 ## Séries
 *Séries para inspirar a programar.*
 
-* [The IT Crowd (2006)](http://www.adorocinema.com/series/serie-3202/)
-* [Silicon Valley (2014)](http://www.adorocinema.com/series/serie-11701/)
-* [Mr. Robot (2015)](http://www.adorocinema.com/series/serie-17966/)
 * [Halt and Catch Fire (2014)](http://www.adorocinema.com/series/serie-11662/)
+* [Mr. Robot (2015)](http://www.adorocinema.com/series/serie-17966/)
+* [Silicon Valley (2014)](http://www.adorocinema.com/series/serie-11701/)
+* [The IT Crowd (2006)](http://www.adorocinema.com/series/serie-3202/)
 
 ## Créditos
 
