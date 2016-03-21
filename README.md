@@ -1,17 +1,16 @@
-# Programação
+# Programação [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Lista de referências [impressionantes](https://github.com/sindresorhus/awesome/) para ajudar no aprendizado de programação, preferencialmente em **pt_BR**.
+Lista de recursos educacionais de alta qualidade para ajudar no aprendizado de programação, preferencialmente em **pt_BR**.
 
 ## Sumário
 
-- [Programação](#programação)
-    - [Cursos](#cursos)
-    - [Linguagens](#linguagens)
-    - [Livros](#livros)
-    - [Ferramentas](#ferramentas)
-    - [Filmes](#filmes)
-    - [Séries](#séries)
-    - [Créditos](#créditos)
+* [Programação](#programação)
+  * [Cursos](#cursos)
+  * [Linguagens](#linguagens)
+  * [Livros](#livros)
+  * [Ferramentas](#ferramentas)
+  * [Filmes](#filmes)
+  * [Séries](#séries)
 
 ## Cursos
 *Plataformas e canais de ensino online que oferecem cursos sobre programação.*
@@ -77,10 +76,12 @@ Lista de referências [impressionantes](https://github.com/sindresorhus/awesome/
 * [Silicon Valley (2014)](http://www.adorocinema.com/series/serie-11701/)
 * [The IT Crowd (2006)](http://www.adorocinema.com/series/serie-3202/)
 
-## Créditos
+## Licença
 
-* Autores: [@fernandojunior](https://github.com/fernandojunior/) e [@leonardoads](https://github.com/leonardoads/)
-* GitHub: https://github.com/fernandojunior/programacao/
-* Free software: [The MIT License](/LICENSE)
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-*Seja um [contribuidor](https://github.com/fernandojunior/programacao/graphs/contributors)! Mas não ultrapasse mais de uma linha em sua [pull request](https://github.com/fernandojunior/lista-programacao/edit/master/README.md) :)*
+Na medida do possível sob a lei, [Fernando Felix do Nascimento Junior](https://github.com/fernandojunior) renunciou a todos os direitos de autor e direitos conexos ou vizinhos para este trabalho.
+
+-
+
+Contribuições são bem-vindas! Em vez de um guia formal, tenha o cuidado de manter o estilo existente desta lista.
