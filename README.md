@@ -4,7 +4,7 @@ Lista de recursos educacionais de alta qualidade para ajudar no aprendizado de p
 
 ## Sumário
 
-* [Programação](#programação)
+* [Programação](#programação-)
   * [Cursos](#cursos)
   * [Linguagens](#linguagens)
   * [Livros](#livros)
@@ -76,12 +76,16 @@ Lista de recursos educacionais de alta qualidade para ajudar no aprendizado de p
 * [Silicon Valley (2014)](http://www.adorocinema.com/series/serie-11701/)
 * [The IT Crowd (2006)](http://www.adorocinema.com/series/serie-3202/)
 
+## Contribuindo
+
+Contribuições são bem-vindas! Em vez de um guia formal, tenha o cuidado de manter o estilo existente desta lista.
+
 ## Licença
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-Na medida do possível sob a lei, [Fernando Felix do Nascimento Junior](https://github.com/fernandojunior) renunciou a todos os direitos de autor e direitos conexos ou vizinhos para este trabalho.
+Public Domain
 
 -
 
-Contribuições são bem-vindas! Em vez de um guia formal, tenha o cuidado de manter o estilo existente desta lista.
+Na medida do possível sob a lei, [Fernando Felix do Nascimento Junior](https://github.com/fernandojunior) renunciou a todos os direitos de autor e direitos conexos ou vizinhos para este trabalho.
