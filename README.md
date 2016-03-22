@@ -88,4 +88,4 @@ Public Domain
 
 -
 
-Na medida do possível sob a lei, [Fernando Felix do Nascimento Junior](https://github.com/fernandojunior) renunciou a todos os direitos de autor e direitos conexos ou vizinhos para este trabalho.
+Na medida do possível sob a lei, [@fernandojunior](https://github.com/fernandojunior) e [@leonardoads](Leonardo Alves dos Santos) renunciaram a todos os direitos de autor e direitos conexos ou vizinhos para este trabalho.
